@@ -3,7 +3,7 @@
 
  ⚡ **Learning:** Networking, Cybersecurity
  
- ⚡ **Interests:** CTFs (Capture The Flag), Linux 
+ ⚡ **Interests:** CTFs (Capture The Flag), Linux, Windows Forensic
 
 <hr>
 
