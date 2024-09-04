@@ -1,9 +1,9 @@
 ### Hello! This is Jasper! <sub>Also known as jlmarbs/marbs</sub>
 <hr>
 
- ⚡ **Learning:** Networking, Cybersecurity
+ ⚡ **Learning:** Networking, Cybersecurity, Reverse Engineering
  
- ⚡ **Interests:** CTFs (Capture The Flag), Linux, Windows Forensic
+ ⚡ **Interests:** CTFs (Capture The Flag), Linux, Windows Forensics
 
 <hr>
 
