@@ -9,7 +9,7 @@
 
 Capture The Flag (CTF) Competitions Joined:
 | Name | Team Name | Place |
-| --- | --- | --- |
+| :---: | :---: | :---: |
 | HackForGov 3 Region VII 2024 | La Boyos | 5th out of 10 Teams |
 | Trend Micro University Capture The Flag 2024 | USC Star Platinum | 10th out of 187 Teams |
 
