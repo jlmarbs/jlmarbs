@@ -39,11 +39,5 @@ Capture The Flag (CTF) Competitions Joined:
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" alt="wireshark" />
 </div>
 
----
-
-<div align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=jlmarbs&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</div>
-
 
 
