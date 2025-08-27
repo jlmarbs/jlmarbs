@@ -12,6 +12,7 @@ Capture The Flag (CTF) Competitions Joined:
 | :---: | :---: | :---: |
 | HackForGov 3 Region VII 2024 | USC La Boyos | 5th out of 10 Teams |
 | Trend Micro University Capture The Flag 2024 | USC Star Platinum | 10th out of 187 Teams |
+| Trend Micro University Capture The Flag 2025 | USC Josh Hutcherson | ONGOING |
 
 
 <hr>
