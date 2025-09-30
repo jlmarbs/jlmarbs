@@ -40,5 +40,15 @@ Capture The Flag (CTF) Competitions Joined:
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" alt="wireshark" />
 </div>
 
+<hr>
 
-
+<h3>Connect with me!</h3>
+<a href="https://play.picoctf.org/users/marbs">
+    <img src="https://img.shields.io/badge/-picoCTF-FF4D4D?style=for-the-badge&logo=picoctf" />
+  </a>
+<a href="https://tryhackme.com/p/marbs">
+    <img src="https://img.shields.io/badge/-TryHackMe-00C4B4?style=for-the-badge&logo=tryhackme" />
+  </a>
+<a href="https://www.linkedin.com/in/jaspermarbella">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
