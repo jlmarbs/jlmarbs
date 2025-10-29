@@ -1,7 +1,7 @@
 ### Hello! This is Jasper! <sub>Also known as jlmarbs/marbs</sub>
 <hr>
 
- ⚡ **Learning:** How to get good <sub>basically how to beat CIT in CTF</sub>
+ ⚡ **Currently Learning:** Reverse Engineering
  
  ⚡ **Interests:** CTFs (Capture The Flag), Linux, Windows Forensics
 
