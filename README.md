@@ -1,7 +1,7 @@
 ### Hello! This is Jasper! <sub>Also known as jlmarbs/marbs</sub>
 <hr>
 
- ⚡ **Currently Learning:** Reverse Engineering, pwn
+ ⚡ **Currently Learning(Suffering):** Reverse Engineering, pwn
  
  ⚡ **Interests:** CTFs (Capture The Flag), Linux, Windows Forensics
 
